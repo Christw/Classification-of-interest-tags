@@ -1,7 +1,7 @@
 # Classification-of-interest-tags
 
 ### Project Summary
-Aggregate the disorganized data.
+Aggregate the disorganized data efficiently.
 
 ### Purpose
 This project is produced because we spent too much time using excel classfying data and we want to be more efficient. Therefore, I created this python file to accelerate the process, and people only need less than 5 secs to finish the work. 
